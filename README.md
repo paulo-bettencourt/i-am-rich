@@ -18,3 +18,5 @@ The application was removed from the App Store without explanation by Apple Inc.
 This APP was inspired on the original "I Am Rich" application and it was coded by using Android Studio.
 
 ## Screenshot
+
+<img width="1792" alt="Screenshot 2021-10-29 at 22 55 00" src="https://user-images.githubusercontent.com/37920932/139510407-31e85ce5-0527-4c3f-be6a-0edf05efa723.png">
